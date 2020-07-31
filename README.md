@@ -1,2 +1,7 @@
 # CommentSpider_selenium
 利用自动化工具selenium爬虫案例
+
+
+虽然selenium很方便，但是由于要请求许多不必要的资源导致耗资源
+
+xpath选择器更好用一些，又是无法定位的时候尝试使用更具体的路径
